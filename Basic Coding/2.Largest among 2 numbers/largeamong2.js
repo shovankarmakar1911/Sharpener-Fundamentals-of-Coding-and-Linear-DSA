@@ -1,4 +1,5 @@
-/* Write a program to print the largest number of the two numbers given.
+/* 
+Write a program to print the largest number of the two numbers given.
 
 
 
@@ -8,7 +9,9 @@ a=3, b=4
 
 Output:
 
-4 */
+4 
+
+*/
 
 let a = 3;
 let b = 4;
